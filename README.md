@@ -1,2 +1,2 @@
 # Magento-2_RestApi_example
-Exemplo de requisição POST para Magento 2
+Exemplo de requisição REST para Magento 2
