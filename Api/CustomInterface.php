@@ -1,6 +1,6 @@
 <?php
 
-namespace Tezus\FrameworkBase\Api;
+namespace Vendor\ModuleName\Api;
 
 interface CustomInterface
 {

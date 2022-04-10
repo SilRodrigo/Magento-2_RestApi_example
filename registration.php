@@ -4,6 +4,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Vendor_ModuleName',
+    'Tezus_FrameworkBase',
     __DIR__
 );

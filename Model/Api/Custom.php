@@ -1,6 +1,6 @@
 <?php
  
-namespace Tezus\FrameworkBase\Model\Api;
+namespace Vendor\ModuleName\Model\Api;
  
 use Psr\Log\LoggerInterface;
  
